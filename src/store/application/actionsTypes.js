@@ -1,0 +1,7 @@
+export const SET_ACTIVE_ROOM = "ACTIVE_ROOM";
+
+export const SET_SHOW_WIDGETS = "SET_SHOW_WIDGETS";
+
+export const SET_LOGIN_MODAL = "SET_LOGIN_MODAL";
+
+export const SET_PRIVATE_MESSAGE = "SET_PRIVATE_MESSAGE";
